@@ -2,7 +2,7 @@ def get_numbers(n):
     even_numbers = []
     odd_numbers = []
     for i in range (1, n+1):
-        if i % 2 == 0:
+        if i % 2 == 0
             even_numbers.append(i)
         else:
             odd_numbers.append(i)
