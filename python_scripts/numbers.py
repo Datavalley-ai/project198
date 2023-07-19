@@ -9,7 +9,7 @@ def get_numbers(n):
     return even_numbers, odd_numbers
 
 
-n = 50
+n = 100
 
 
 even_number, odd_numbers = get_numbers(n)
